@@ -48,4 +48,4 @@ The feature selection techniques used are:
 
     
 # RESULT:
-      Thus the program to perform Feature Scaling and Feature Selection process has been coded and executed successfully.
+Thus the program to perform Feature Scaling and Feature Selection process has been coded and executed successfully.
